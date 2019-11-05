@@ -4,7 +4,9 @@ title: About
 ---
 ## About
 
-NumberHound is a blog focused on sports analytics and telling stories with data. NumberHound was founded and is operated by Chris Smitten. NumberHound's logo was created by [Kyrsten Lofts](https://kyrstenlofts.com/).
+NumberHound is a blog focused on sports analytics and telling stories with data. NumberHound was founded and is operated by Chris Smitten. NumberHound's logo was created by [Kyrsten Lofts](https://kyrstenlofts.com/). 
+
+If you have questions about NumberHound, posts on NumberHound, data from NumberHound, or have a general inquiry, please email woof@numberhound.com 
 
 ## Data
 
