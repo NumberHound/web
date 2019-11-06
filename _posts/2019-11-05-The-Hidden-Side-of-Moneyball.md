@@ -14,7 +14,7 @@ title: The Hidden Side of Moneyball
 
 We can see from the graph above that Oaklands top six players (According to WAR), including the AL MVP and the Al Cy Young winner were largely ignored in the film. We can also see that Oakland had a great starting rotation, something which was never mentioned in the movie. The players who recieved the most attention on the screen appeared to be the stars of the team, the centerpieces, the drivers of the A's success. This metric of screen time is also quite generous to Chavez and Tejada -- their names were barely mentioned in the movie, and when they did appear on the screen, a regular viewer wouldn't know, they just appear like regular teammates. 
 
-![The Hidden Side to Moneyball](/img/moneyball/moneyball1.png "Less screen time")
+![The Hidden Side to Moneyball](/img/moneyball/Moneyball1.png "Less screen time")
 
 
 
