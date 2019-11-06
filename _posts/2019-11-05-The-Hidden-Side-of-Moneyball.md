@@ -10,7 +10,7 @@ title: The Hidden Side of Moneyball
 
   In reality, the A's already had a great team in place -- [Eric Chavez](https://www.baseball-reference.com/players/c/chaveer01.shtml) the five time gold glover, [Miguel Tejada](https://www.baseball-reference.com/players/t/tejadmi01.shtml) the six time all-star and actuall the American League MVP in 2002, and the two time all-star [Jermaine Dye](https://www.baseball-reference.com/players/d/dyeje01.shtml). Something which is also completely ignored is how good the A's pitching was in 2002. Led by an excellent pitching staff which included 2002 Amnerican League Cy Young Winner [Barry Zito](https://www.baseball-reference.com/players/z/zitoba01.shtml). However, these great players were largely ignored. So how much screen time (measured here as seconds being talked about in the movie plus seconds on the screen) did each player get relative to their value?
 
-![The Hidden Side to Moneyball](/img/moneyball/moneyball2 "WAR% Versus Screen%")
+![The Hidden Side to Moneyball](/img/moneyball/moneyball2.png "WAR% Versus Screen%")
 
 
 
