@@ -16,7 +16,18 @@ We can see from the graph above that Oaklands top six players (According to WAR)
 
 ![The Hidden Side to Moneyball](/img/moneyball/Moneyball1.png "Less screen time")
 
-Which players deserved more screen time for what they brought to the team? taking the difference between their percentage of screen time and percentage or WAR suggests that film should have focused more on the teams starting rotation as well as Tejada and Chavez. 
+Which players deserved more screen time for what they brought to the team? taking the difference between their percentage of screen time and percentage or WAR suggests that film should have focused more on the teams starting rotation as well as Tejada and Chavez. Moneyball oversold the players brought in by the team on the cheap (with the help of sabermetrics) which in turn overshadowed the real contributions of Oakland's key players. This leaves the audience with the impression that the players brought in on the cheap were the team MVP's. 
 
 
 
+
+
+
+
+
+
+
+
+
+
+_The original discussion of this critique of Moneyball can be found chapter 1 of [The Sabermetric Revolution](https://www.amazon.ca/Sabermetric-Revolution-Assessing-Analytics-Baseball/dp/0812245725). This post is an extension that argument which takes the discussion to the data. The data used for this post is avaliable in a read only Excel file in NumberHound's data repository on Github._
