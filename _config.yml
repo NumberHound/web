@@ -1,11 +1,11 @@
 # Site settings
 title: NumberHound
 description: "A blog about sports and data storytelling, amongst other things."
-url: "https://www.numberhound.com"
+url: "http://www.numberhound.com"
 author:
   name: "Chris Smitten"
   email: "woof@numberhound.com"
-  url: "https://www.numberhound.com"
+  url: 
 
 # Build settings
 baseurl: /
