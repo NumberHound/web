@@ -8,7 +8,7 @@ author:
   url: "https://numberhound.com/"
 
 # Build settings
-baseurl: /
+baseurl: /home
 markdown: kramdown
 source: .
 destination: ./_site
