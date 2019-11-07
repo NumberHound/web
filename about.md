@@ -10,18 +10,13 @@ If you have questions about NumberHound, posts on NumberHound, data from NumberH
 
 ## Data
 
-Data for all posts on NumberHound can be found in [Github repositories](https://github.com/NumberHound). The data in these repositories are continually updated, and new data is added whenever possible. This data is for educational purposes only and any other use of this data must be in compliance with the repository license. 
-
-NumberHound Data topics:
-
-* [Hockey](https://github.com/NumberHound/Hockey)
-* [Other](https://github.com/NumberHound/Data)
+Data for all posts on NumberHound can be found in [Github repositories](https://github.com/NumberHound). The data in these repositories are continually updated, and new data is added whenever possible. This data is for educational purposes only and any other use of this data must be in compliance with the repository license. Currently, all NumberHound data is avaliable [here](https://github.com/NumberHound/Data)
 
 NumberHound Data topics coming soon:
 
 * Football
 * Soccer
-* Economics
+* Hockey
 
 Graph databases using Neo4j are also in the works. 
 
