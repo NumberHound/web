@@ -10,7 +10,7 @@ If you have questions about NumberHound, posts on NumberHound, data from NumberH
 
 ## Data
 
-Data for all posts on NumberHound can be found in [Github repositories](https://github.com/NumberHound). The data in these repositories are continually updated, and new data is added whenever possible. Anyone is welcome to use this data for their own projects. Anything found in NumberHound's [Github repositories](https://github.com/NumberHound) can be used for other purposes in accordance with the repository license. 
+Data for all posts on NumberHound can be found in [Github repositories](https://github.com/NumberHound). The data in these repositories are continually updated, and new data is added whenever possible. This data is for educational purposes only and any other use of this data must be in compliance with the repository license. 
 
 NumberHound Data topics:
 
