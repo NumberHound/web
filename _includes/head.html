@@ -1,8 +1,10 @@
 <head>
 	<!-- Meta -->
 	<meta charset="UTF-8"/>
+	<meta name="description" content="Data Science Blog">
+	<meta name="keywords" content="Sports,Data,Blog,Data Science">
+	<meta name="author" content="Chris Smitten">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-	<meta name="generator" content="Jekyll">
 
 	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
@@ -13,7 +15,7 @@
 
 	<!-- RSS -->
 	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
-	
+
 	{% if jekyll.environment == 'production' %}
 	{% include analytics.html %}
 	{% endif %}
