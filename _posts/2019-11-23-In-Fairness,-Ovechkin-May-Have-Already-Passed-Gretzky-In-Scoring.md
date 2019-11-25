@@ -14,7 +14,7 @@ The National Hockey League is ever changing, from the equipment used to the rule
 
 When examining this graph, it becomes evident that Ovechkin and Gretzky played in entirely different versions of the NHL.
 
-![Differences in League Goals Averages For Careers](/img/OvechkinGretzky/Boxplot.png "League Goal Per Game Average")
+![Differences in League Goals Averages For Careers](/img/OvechkinGretzky/Histogram.png "League Goal Per Game Average")
 
 Is it possible that Gretzky's goals came easier to him not only because he was great, but because he played in a time when goals were abundant? But how can we figure out if the league environment around Gretzky had any impact on how many goals he scored? [Adjusted Goals](https://www.hockey-reference.com/about/adjusted_stats.html) can help by accounting for schedule length, scoring environment, and roster size. When comparing players who played in different generations or eras of the NHL, we shouldn't compare their numbers at face value. Was it as easy to score when the NHL first started versus today? Probably not. Adjusting their statistics can, to some extent, weed out the effects of when that player played. So if we adjusted the goals of the NHL's top 12 all-time leading scorers, would they be in the same place?
 
