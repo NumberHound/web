@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data
+title: NumberHound Data
 ---
 ## Data
 
