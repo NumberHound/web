@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Sports Data/Stats
+title: Sports Data
+---
+Please note that the resources for sports data are in no particular order. The General Data Search is alphabetical.
+
 ---
 
 ## Contents
+
 {:.no_toc}
 
 * ToC

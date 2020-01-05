@@ -3,7 +3,12 @@ layout: page
 title: Economics Data
 ---
 
+Please note that the resources for sports data are in alphabetical order. Not all resources on this page are free, especially in the Finance section. It is a good idea to check with your universities library, as you may already have access to some paid data resources. The economics webpage of your school's library should have some information about what economics data your school has special access to. 
+
+---
+
 ## Contents
+
 {:.no_toc}
 
 * ToC
