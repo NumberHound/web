@@ -127,7 +127,6 @@ On Udemy:
 
 ## Power BI
 
-Coming Soon
 
 ---
 
