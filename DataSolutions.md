@@ -71,6 +71,7 @@ Excel can be a powerful tool for data collection, data cleaning, data integratio
 [Excel on Udemy](https://www.udemy.com/courses/search/?src=ukw&q=excel&p=1&sort=highest-rated) -- If you are looking to learn something specific, this is another great place to start.
 
 [Econometrics on Excel](https://www.academia.edu/31451502/Using_Excel_for_principle_of_Econometrics)
+
 ---
 
 ## Gretl
@@ -96,6 +97,7 @@ You can get MATLAB for free if you are a student (depending on what school you g
 [MATLAB Documentation](https://www.mathworks.com/help/matlab/)
 
 [The MATLAB Econometrics ToolBox](https://www.mathworks.com/products/econometrics.html)
+
 ---
 
 ## Python
@@ -126,6 +128,7 @@ On Udemy:
 ## Power BI
 
 Coming Soon
+
 ---
 
 ## R
