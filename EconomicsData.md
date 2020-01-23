@@ -3,7 +3,7 @@ layout: page
 title: Economics Data
 ---
 
-Please note that the resources for sports data are in alphabetical order. Not all resources on this page are free, especially in the Finance section. It is a good idea to check with your universities library, as you may already have access to some paid data resources. The economics webpage of your school's library should have some information about what economics data your school has special access to. 
+Please note that the resources for sports data are in alphabetical order. Not all resources on this page are free, especially in the Finance section. It is a good idea to check with your universities library, as you may already have access to some paid data resources. The economics webpage of your school's library should have some information about what economics data your school has special access to.
 
 ---
 
@@ -161,7 +161,7 @@ Some countries have rich crime data available for all areas
 [Integrated Public Use Microdata Series (IPUMS)](https://ipums.org/) -- From the Minnesota Population Center. Provides census and survey data from around the world integrated across time and space.  Includes the following: U.S. census micro-data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present. Now includes preliminary complete count data for several censuses up to 1940. Micro-data from the monthly U.S. labor force survey, the Current Population Survey (CPS), from 1962 to the present. Demographic and employment data as well as special topics such as fertility, tobacco use, volunteer activities, voter registration, computer and internet use, food security, etc..
 and Census microdata for over 90 countries worldwide.
 
-[United States Census Bureau](https://www.census.gov/) -- The principal source of periodic U.S demographic data. Major programs include the Census of Population and Housing available via American Factfinder and the American Communiyt Survey.
+[United States Census Bureau](https://www.census.gov/) -- The principal source of periodic U.S demographic data. Major programs include the Census of Population and Housing available via American Factfinder and the American Community Survey.
 
 [UN Demographic Yearbook System](https://unstats.un.org/unsd/demographic-social/products/dyb/index.cshtml) -- Statistics on population, births, deaths, marriage and divorce annually as well as economic activity, educational attainment, housing, ethnicity, language, and foreign-born and foreign populations by country from 1948.
 
@@ -364,7 +364,7 @@ Neighborhood Change Database -- Contains US tract-level data from the 1970, 1980
 
 [World Input-Output Database](http://www.wiod.org/home) -- Time series of world input-output tables and international supply and use tables; national input-output tables and national supply and use tables; socio-economic accounts; and environmental accounts for 27 EU countries and 13 other major countries.
 
-[Wharton Research Data Service](https://wrds-www.wharton.upenn.edu/) -- Business data research service from The Wharton School providing access to financial, economic, and company data.  UC Berkeley subscriptions provide access to: COMPUSTAT Global, Amadeus, Orbis, and others. Open to all current UC Students staff and faculty. Click on the link, choose "Register" and if you qualify a password will be sent by email.
+[Wharton Research Data Service](https://wrds-www.wharton.upenn.edu/) -- Business data research service from The Wharton School providing access to financial, economic, and company data.
 
 ---
 
