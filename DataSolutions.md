@@ -11,7 +11,7 @@ Also, for any help with any of these softwares, [YouTube](https://www.youtube.co
 
 Always remember, if you run into a problem, chances are someone has run into that problem before. So there is probably any answer on Youtube or Google.
 
-If something you find below is a link to Udemy, note that Udemy constantly marks down their courses from $200 to $15-20. Never pay $200 for a Udemy course, wait for them to be marked down -- this happens almost weekly and on holidays. Also when you sign up for Udemy you usually get your first purchase (no matter how many courses) discounted.
+If something you find below is a link to [Udemy](https://www.udemy.com), note that Udemy constantly marks down their courses from $200 to $15-20. Never pay $200 for a Udemy course, wait for them to be marked down -- this happens almost weekly and on holidays. Also when you sign up for Udemy you usually get your first purchase (no matter how many courses) discounted.
 
 ---
 
