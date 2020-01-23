@@ -127,23 +127,24 @@ On Udemy:
 
 ## Power BI
 
+Coming Soon...
 
 ---
 
 ## R
 
-Coming Soon
+Coming Soon...
 
 ---
 
 ## STATA
 
-Coming Soon
+Coming Soon...
 
 ---
 
 ## Tableau
 
-Coming Soon
+Coming Soon...
 
 ---
