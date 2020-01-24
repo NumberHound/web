@@ -3,7 +3,7 @@ layout: page
 title: Data Solutions
 ---
 
-# Introduction
+Introduction:
 
 So you have found your data... But where do you store it? How can you clean it? Do you need to integrate it with another dataset? How can you analyze it? What software is best for you? For help with all of this, please see below.
 
@@ -36,11 +36,11 @@ Regardless of what you choose... I would recommend getting a [Github](https://gi
 
 ## General Thoughts
 
-| Google Drive | Best for free storage and simplicity |
-| R or Python? | Comes down to personal taste, sometimes depends on if you are doing something high specialized |
-| Best for Visualization? | Tableau |
-| Best for Cleaning Data and Data Integration? | Excel and Excel Power Query |
-| Best for Econometrics? | STATA |
+* Google Drive -- Best for free storage and simplicity.
+* R or Python? Comes down to personal taste, sometimes depends on if you are doing something high specialized.
+* Best for Visualization? Tableau.
+* Best for Cleaning Data and Data Integration? Excel and Excel Power Query.
+* Best for Econometrics? STATA.
 
 
 What is most used in the real world? Python, by far, and it is still growing. Followed by Excel, Tableau, and Power BI. See:
