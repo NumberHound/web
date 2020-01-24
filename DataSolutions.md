@@ -3,7 +3,7 @@ layout: page
 title: Data Solutions
 ---
 
-Introduction:
+**Introduction:**
 
 So you have found your data... But where do you store it? How can you clean it? Do you need to integrate it with another dataset? How can you analyze it? What software is best for you? For help with all of this, please see below.
 

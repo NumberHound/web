@@ -167,7 +167,7 @@ and Census microdata for over 90 countries worldwide.
 
 ---
 
-## Economic history
+## Economic History
 
 [Archival Federal Reserve Economic Data (ALFRED)](https://alfred.stlouisfed.org/) -- "Economic data time travel" from the St. Louis Federal Reserve. Includes a section on [International Data](https://alfred.stlouisfed.org/category?cid=32263).
 
@@ -268,7 +268,7 @@ Biking Data (Biking is a growing area in environmental economics) is published i
 
 ---
 
-## Health economics
+## Health Economics
 
 [California Health Interview Survey](http://healthpolicy.ucla.edu/chis/data/Pages/overview.aspx) -- The largest state health survey in the United States conducted every two years on public health topics and access to health care for Californians.
 
