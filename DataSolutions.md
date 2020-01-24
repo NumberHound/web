@@ -3,6 +3,8 @@ layout: page
 title: Data Solutions
 ---
 
+# Introduction
+
 So you have found your data... But where do you store it? How can you clean it? Do you need to integrate it with another dataset? How can you analyze it? What software is best for you? For help with all of this, please see below.
 
 For more in depth discussion on softwares for economists, please see [StackExchange](https://economics.stackexchange.com/questions/5853/most-common-programs-used-by-economists).
@@ -13,6 +15,14 @@ Always remember, if you run into a problem, chances are someone has run into tha
 
 If something you find below is a link to [Udemy](https://www.udemy.com), note that Udemy constantly marks down their courses from $200 to $15-20. Never pay $200 for a Udemy course, wait for them to be marked down -- this happens almost weekly and on holidays. Also when you sign up for Udemy you usually get your first purchase (no matter how many courses) discounted.
 
+Regardless of what you choose... I would recommend getting a [Github](https://github.com) account. Github is a leading software development platform. It is a great place to store data and scripts for your projects. It is also free unless you have very large file storage requirements. This is the best way to store all your project files in the cloud. You can also host a static website for free on Github. This is a great option if you want to create a personal page, a CV page, or a blog.
+
+[Getting started on Github](https://guides.github.com/activities/hello-world/)
+
+[Github Guides](https://guides.github.com)
+
+[Github Pages](https://pages.github.com) -- getting your website started
+
 ---
 
 ## Contents
@@ -21,6 +31,23 @@ If something you find below is a link to [Udemy](https://www.udemy.com), note th
 
 * ToC
 {:toc}
+
+---
+
+## General Thoughts
+
+| Google Drive | Best for free storage and simplicity |
+| R or Python? | Comes down to personal taste, sometimes depends on if you are doing something high specialized |
+| Best for Visualization? | Tableau |
+| Best for Cleaning Data and Data Integration? | Excel and Excel Power Query |
+| Best for Econometrics? | STATA |
+
+
+What is most used in the real world? Python, by far, and it is still growing. Followed by Excel, Tableau, and Power BI. See:
+
+[KDnuggets](https://www.kdnuggets.com/2019/05/poll-top-data-science-machine-learning-platforms.html)
+
+[Most popular programming languages throughout history](https://www.youtube.com/watch?v=Og847HVwRSI)
 
 ---
 
@@ -127,24 +154,77 @@ On Udemy:
 
 ## Power BI
 
-Coming Soon...
+Power BI is a business intelligence software, but it is very useful for visualization, creating dashboards for presentations, and even data integration. It is much cheaper than its counterpart -- Tableau. You can actually use Power BI for free, for as long as you want, without a license. When you open it, just ignore the prompts at the beginning which ask you to sign in or create an account.
+
+[Power BI Homepage](https://powerbi.microsoft.com/en-us/)
+
+[Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+
+[Power BI Guided Learning](https://docs.microsoft.com/en-us/power-bi/guided-learning/)
+
+[Power BI community Forum](https://community.powerbi.com)
+
+[Power BI 4 Hour Course](https://www.youtube.com/watch?v=3u7MQz1EyPY)
+
+Udemy:
+* [A complete introduction to Power BI](https://www.udemy.com/course/powerbi-complete-introduction/)
+
+* [Power BI for Data Science](https://www.udemy.com/course/mspowerbi/)
 
 ---
 
 ## R
 
-Coming Soon...
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. R is like python in that it is open source and has a ton of packages which can be added in. I recommend to, instead of downloading R, download R studio. R Studio is an integrated development environment which is more intuitive and functional than just R. R Studio comes with [Anaconda](https://www.anaconda.com/distribution/). If you want to learn a bit of Python and R, I would recommend just downloading Anaconda.
+
+[R Home](https://www.r-project.org)
+
+[R Studio Home](https://rstudio.com)
+
+ABSOLUTE BEST, AND FREE WAY TO GET STARTED IN R: [Marin Stats Lectures](https://www.statslectures.com)
+* This guy teaches R to beginners in R Studio. He will take you from the basics to cleaning data to visualizations to stats in R to linear regressions. He does it all in videos complemented by sample data sets he provides. He also gives you all script files.
+
+[Econometrics in R](https://www.econometrics-with-r.org/index.html)
+
+[Principles of Econometrics in R](https://bookdown.org/ccolonescu/RPoE4/)
+
+[Introductory Econometrics in R](https://scpoecon.github.io/ScPoEconometrics/)
 
 ---
 
 ## STATA
 
-Coming Soon...
+STATA is a powerful statistical software which was built with researchers in mind. The big dataset STATA can handle enormous datasets with ease. STATA now even has python integration on the new versions. The downside is... it is expensive.. but students can get special pricing, and check if you get it for free through your school.
+
+[STATA Homepage](https://www.stata.com)
+
+[STATA Video Tutorials](https://www.stata.com/links/video-tutorials/)
+
+[Examples and Datasets](https://www.stata.com/links/examples-and-datasets/)
+
+[STATA Resources](https://www.stata.com/links/)
+
+[STATA Documentation](https://www.stata.com/features/documentation/) -- STATA documentation is very detailed in has good use examples
 
 ---
 
 ## Tableau
 
-Coming Soon...
+Tableau is also a business intelligence software. It is a lot more expensive than Power BI, but it definitely has its perks over Power BI. I personally prefer it to Power BI. If you are a student you can get a one year license for free. I WOULD HIGHLY RECOMMEND THIS. Tableau is the best tool for data visualization and is the tool of choice on NumberHound. Student offer is available [here](https://www.tableau.com/academic/students).
+
+[Tableau Homepage](https://www.tableau.com)
+
+[Getting Started](https://www.tableau.com/learn/get-started)
+
+[Free Training Videos](https://www.tableau.com/learn/training/20194)
+
+[Tableau community Forum](https://community.tableau.com/welcome?_ga=2.59539621.960781761.1579834384-1705092052.1579574019&_gac=1.12387840.1579834385.EAIaIQobChMI0aWN152b5wIV9h-tBh2tbgKZEAAYASAAEgLU8_D_BwE)
+
+[Where is Will](https://public.tableau.com/en-us/gallery/tell-me-about-will) -- this is a great 15 minute demonstration of Tableau's power. click the video link to see!
+
+[Tableau in six hours](https://www.youtube.com/watch?v=aHaOIvR00So)
+
+Udemy:
+* [Tableau for Data Science](https://www.udemy.com/course/tableau10/)
 
 ---
