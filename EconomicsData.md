@@ -61,7 +61,7 @@ A quick google search can be done to see if your municipality, state/province or
 
 If you know what you want, and have some key words for your search, I would suggest [Google Dataset Search](https://datasetsearch.research.google.com)
 
-When something is hard to measure, like popularity of something, a potential alternative to measuring popularity is using [Google Trends](https://trends.google.com/trends/). The problem with this is instead of giving you raw statistics, it gives you an index of everything. 
+When something is hard to measure, like popularity of something, a potential alternative to measuring popularity is using [Google Trends](https://trends.google.com/trends/). The problem with this is instead of giving you raw statistics, it gives you an index of everything.
 
 ---
 
@@ -248,7 +248,7 @@ Biking Data (Biking is a growing area in environmental economics) is published i
 
 [RICE Model](https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/28461/summary) -- Examines alternative outcomes for emissions, climate change, and damages under different policy scenarios using the RICE model (Regional Integrated model of Climate and the Economy).
 
-[United Nations Environmental Data Explorer](http://geodata.grid.unep.ch/) -- Portal to a wealth of international and regional data on many aspects of the environment including agriculture, air quality, biodiversity, coral reefs, ecosystems, endangered =species, emissions, erosion, forests, human settlements, land use, ozone, pesticides, and weather.
+[United Nations Environmental Data Explorer](http://geodata.grid.unep.ch/) -- Portal to a wealth of international and regional data on many aspects of the environment including agriculture, air quality, biodiversity, coral reefs, ecosystems, endangered species, emissions, erosion, forests, human settlements, land use, ozone, pesticides, and weather.
 
 [World Bank Climate Change Data](https://datacatalog.worldbank.org/dataset/climate-change-data) -- Large collection of climate change data from the world bank, from forest areas to CO2 emissions to urban populations.
 
