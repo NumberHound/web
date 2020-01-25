@@ -57,6 +57,14 @@ A quick google search can be done to see if your municipality, state/province or
 
 ---
 
+## I Know What I Want, But Can't Find It
+
+If you know what you want, and have some key words for your search, I would suggest [Google Dataset Search](https://datasetsearch.research.google.com)
+
+When something is hard to measure, like popularity of something, a potential alternative to measuring popularity is using [Google Trends](https://trends.google.com/trends/). The problem with this is instead of giving you raw statistics, it gives you an index of everything. 
+
+---
+
 ## Agricultural Economics
 
 [Center for International Earth Science Information Network (CIESIN)](http://www.ciesin.columbia.edu/sub_guide.html) --  Provides data on the changing relationship between human beings and the environment. Make sure to also take a look at the See [Socioeconomic Data and Applications Center](https://sedac.ciesin.columbia.edu/).
@@ -305,6 +313,8 @@ Biking Data (Biking is a growing area in environmental economics) is published i
 [American Factfinder (U.S. Census Bureau)](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml) Database for online source for accessing population, housing, economic and geographic data from the from the U.S. Census, including the Census of Population and Housing and the American Community Survey.
 
 [CHASS](http://datacentre.chass.utoronto.ca/) -- [Micro Data Surveys](http://sda.chass.utoronto.ca/sdaweb/sda.htm) From the University of Toronto social sciences data center. Canadian Labour Force Surveys [here](http://sda.chass.utoronto.ca/sdaweb/html/lfs.htm).
+
+[CRDC](https://crdcn.org) -- Provides universities, governments and other approved researchers ready access to a vast array of social, economic and health confidential microdata in secure computer facilities located on university campuses across the country. You must request this data and there is an approval process.
 
 [Integrated Public Use Microdata Series (IPUMS)](https://ipums.org/) -- From the Minnesota Population Center. Provides census and survey data from around the world integrated across time and space.  Includes the following:
 

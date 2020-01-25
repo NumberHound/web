@@ -37,7 +37,7 @@ Regardless of what you choose... I would recommend getting a [Github](https://gi
 ## General Thoughts
 
 * Google Drive -- Best for free storage and simplicity.
-* R or Python? Comes down to personal taste, sometimes depends on if you are doing something high specialized.
+* R or Python? Comes down to personal taste, sometimes depends on if you are doing something highly specialized.
 * Best for Visualization? Tableau.
 * Best for Cleaning Data and Data Integration? Excel and Excel Power Query.
 * Best for Econometrics? STATA.
@@ -49,6 +49,10 @@ What is most used in the real world? Python, by far, and it is still growing. Fo
 
 [Most popular programming languages throughout history](https://www.youtube.com/watch?v=Og847HVwRSI)
 
+What is most popular on the job market?
+
+[Most In Demand Tech Skills for Data Scientists](https://towardsdatascience.com/the-most-in-demand-tech-skills-for-data-scientists-d716d10c191d)
+
 ---
 
 ## Data Storage
@@ -59,7 +63,7 @@ Memory sticks are always good, but if you're like me you forget them or you lose
 
 [Box](https://www.box.com/home) -- With Box, you can store any type of file in the cloud, from photos and videos to financial information, and access it easily anytime, anywhere. You can also work with all your cloud files from your desktop with Box Drive without using much hard drive space. Box offers 10 GB of free storage up front, but with payment you can get access to features like data loss protection, version history, and file sharing.
 
-[Dropbox](https://www.dropbox.com/?landing=dbv2) -- Very similar to Box in its capabilities and offerings. You can get 2 GB of storage for free, well useful features like sharing.
+[Dropbox](https://www.dropbox.com/?landing=dbv2) -- Very similar to Box in its capabilities and offerings. You can get 2 GB of storage for free, as well as useful features like sharing.
 
 [Google Drive](https://www.google.ca/drive/) -- This is probably the best storage solution for students because you get 15 GB free. It also makes file sharing easy with others. If you have a google account, you already have a google drive.
 
@@ -140,6 +144,8 @@ Python Python is powerful, fast, free, and open source. Python can be run in sev
 [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Python Cheat Sheets](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
+
+[Automate the Boring Stuff](https://automatetheboringstuff.com)
 
 On Udemy:
 
