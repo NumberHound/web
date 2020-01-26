@@ -166,8 +166,7 @@ Some countries have rich crime data available for all areas
 
 [Human Mortality Database](https://www.mortality.org/) -- Mortality and population data for researchers interested in the history of human longevity. From UC Berkeley and the Max Planck Institute for Demographic Research.
 
-[Integrated Public Use Microdata Series (IPUMS)](https://ipums.org/) -- From the Minnesota Population Center. Provides census and survey data from around the world integrated across time and space.  Includes the following: U.S. census micro-data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present. Now includes preliminary complete count data for several censuses up to 1940. Micro-data from the monthly U.S. labor force survey, the Current Population Survey (CPS), from 1962 to the present. Demographic and employment data as well as special topics such as fertility, tobacco use, volunteer activities, voter registration, computer and internet use, food security, etc..
-and Census microdata for over 90 countries worldwide.
+[Integrated Public Use Microdata Series (IPUMS)](https://ipums.org/) -- From the Minnesota Population Center. Provides census and survey data from around the world integrated across time and space.  Includes the following: U.S. census micro-data with enhanced documentation. Data includes decennial censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present. Now includes preliminary complete count data for several censuses up to 1940. Micro-data from the monthly U.S. labor force survey, the Current Population Survey (CPS), from 1962 to the present. Demographic and employment data as well as special topics such as fertility, tobacco use, volunteer activities, voter registration, computer and internet use, food security, etc.. and Census microdata for over 90 countries worldwide.
 
 [United States Census Bureau](https://www.census.gov/) -- The principal source of periodic U.S demographic data. Major programs include the Census of Population and Housing available via American Factfinder and the American Community Survey.
 
@@ -319,13 +318,17 @@ Biking Data (Biking is a growing area in environmental economics) is published i
 [Integrated Public Use Microdata Series (IPUMS)](https://ipums.org/) -- From the Minnesota Population Center. Provides census and survey data from around the world integrated across time and space.  Includes the following:
 
 * [IPUMS USA](https://usa.ipums.org/usa/) -- U.S. census micro-data with enhanced documentation. Data includes censuses from 1790 to 2010 and American Community Surveys (ACS) from 2000 to the present. Now includes preliminary complete count data for several censuses up to 1940.
+
 * [IPUMS CPS](https://cps.ipums.org/cps/) -- Micro-data from the monthly U.S. labor force survey, the Current Population Survey (CPS), from 1962 to the present. Demographic and employment data as well as special topics such as fertility, tobacco use, volunteer activities, voter registration, computer and internet use, food security, etc..
 
 [Longitudinal Employer Household Dynamics](https://lehd.ces.census.gov/data/) -- Several data products that characterize workforce dynamics for specific groups. The Quarterly Workforce Indicators (QWI), LEHD Origin-Destination Employment Statistics (LODES), Job-to-Job Flows (J2J), and Post-Secondary Employment Outcomes (PSEO) are available for public use.
 
 * [Quarterly Workforce Indicators](https://ledextract.ces.census.gov/static/data.html) -- Employment, job creation, earnings, and other measures of employment based on detailed firm characteristics (geography, industry, age, size) and worker demographics (sex, age, education, race, ethnicity) at the state, metropolitan, county, and Workforce Investment Board (WIB) areas.
+
 * LEHD Origin-Destination Employment Statistics (LODES) -- Detailed spatial distributions of workers' employment and residential locations and the relation between the two at the Census Block level as well as detail on age, earnings, industry distributions, and local workforce indicators.
+
 * Job-to-Job Flows -- Statistics on worker reallocation in the United States constructed from the LEHD data. The initial release of national data distinguishes hires and separations associated with job change from hires from and separations to non-employment.
+
 * [Post-Secondary Outcomes](https://lehd.ces.census.gov/data/pseo_experimental.html) -- Experimental tabulations with earnings and employment outcomes for college and university graduates by degree level, degree major, and post-secondary institution.
 
 Neighborhood Change Database -- Contains US tract-level data from the 1970, 1980, 1990, 2000 and 2010 decennial censuses with variables and tract boundaries that are consistently defined across census years with details such as population, household, and housing characteristics, income, poverty status, education level, employment, housing costs, immigration, and other variables.

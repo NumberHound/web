@@ -39,7 +39,7 @@ Regardless of what you choose... I would recommend getting a [Github](https://gi
 * Google Drive -- Best for free storage and simplicity.
 * R or Python? Comes down to personal taste, sometimes depends on if you are doing something highly specialized.
 * Best for Visualization? Tableau.
-* Best for Cleaning Data and Data Integration? Excel and Excel Power Query.
+* Best for Cleaning Data and Data Integration if I don't want to code? Excel and Excel Power Query .
 * Best for Econometrics? STATA.
 
 
