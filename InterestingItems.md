@@ -3,9 +3,6 @@ layout: page
 title: Interesting Items
 ---
 
-This is a collection of other items of interest.
----
-
 ## Contents
 
 {:.no_toc}
