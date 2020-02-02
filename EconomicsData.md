@@ -339,11 +339,13 @@ Neighborhood Change Database -- Contains US tract-level data from the 1970, 1980
 
 ---
 
-## International/Macro Economics
+## International/Macro/Monetary Economics
 
 [Amadeus](https://amadeus.bvdinfo.com/version-2019919/home.serv?product=amadeusneo) -- European financial database containing information on approximately 20 million companies from 43 countries. Up to 10 years of detailed information and consolidated statements provided when available.
 
 [CEPII](http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp) -- Collection of world trade database with accompanying trade models built by CEPII, a French international trade research center. All databases are free except BACI for which users have to demonstrate their organization has a UN Comtrade subscription (UC Berkeley subscribes).  
+
+Central Banks -- central banks can be a great source of data, but keep in mind of which countries are more likely to have corrupted data. Here is a link for the [Bank of Canada](https://www.bankofcanada.ca)
 
 [The Economist](https://www.economist.com/markets-data) -- data on major economic and financial indicators. Also see the big mac index [data](https://github.com/TheEconomist).
 
