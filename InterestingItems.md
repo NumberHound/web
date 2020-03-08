@@ -34,7 +34,11 @@ title: Interesting Items
 
 [Luck Versus Skill](https://www.youtube.com/watch?v=HNlgISa9Giw)
 
-[How Blockchain is Changing Money and Business](https://www.youtube.com/watch?v=Pl8OlkkwRpc)
+[How Blockchain is Changing Money and Business](https://www.youtube.com/watch?v=Pl8OlkkwRpc)\
+
+[Three Ways to Spot a Bad Statistic](https://www.youtube.com/watch?v=Zwwanld4T1w&t=446s)
+
+[Designing Data For Maximum Impact](https://www.youtube.com/watch?v=b5C5dV9XVKo)
 
 ---
 
@@ -44,6 +48,8 @@ title: Interesting Items
 
 [Variance Explained](http://varianceexplained.org)
 
+[Gapminder](https://www.gapminder.org/)
+
 ---
 
 ## Podcasts
@@ -51,3 +57,15 @@ title: Interesting Items
 [Freakonomics Radio](http://freakonomics.com)
 
 [LSE Public lectures and events](https://podcasts.google.com/?feed=aHR0cDovL3d3dy5sc2UuYWMudWsvYXNzZXRzL3JpY2htZWRpYS93ZWJGZWVkcy9wdWJsaWNMZWN0dXJlc0FuZEV2ZW50c19pVHVuZXNSc3NBbGxNZWRpYVR5cGVzQWxsaXRlbXMueG1s&ved=0CAAQ4aUDahcKEwjgtuW1obPnAhUAAAAAHQAAAAAQAQ&hl=en-CA)
+
+---
+
+## Social Media
+
+[@chartrdaily](https://www.instagram.com/chartrdaily/?hl=en) -- On Instagram. Posts one thought provoking data visualization a day.
+
+[@theeconomist](https://www.instagram.com/theeconomist/?hl=en)
+
+[monachalabi](https://www.instagram.com/monachalabi/?hl=en)
+
+---
