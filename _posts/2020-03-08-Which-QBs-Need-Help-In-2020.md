@@ -8,7 +8,7 @@ In the first plot below, average time to throw is plotted against [Quarterback R
 
 ![TTvsQBR](/img/QBHelp/TTvsQBR.PNG "TTvsQBR")
 
-Being in the top two quadrants suggests these were the better quarterbacks in 2019, though some of these quarterbacks had less time than others. Meanwhile, quarterbacks in the bottom right quadrant will look to improve in 2020 as they had plenty of time to throw (relatively) but made poor choices. Teams in the left two quadrants will look to give their quarterbacks more time to throw in 2020. Intuitively, the more time they have to throw, the better their stat lines may become.
+What graph 1 represents is which Quarterbacks make the most of the precious time they are given to throw the ball. Being in the top two quadrants suggests these were the better quarterbacks in 2019, though some of these quarterbacks had less time than others. Meanwhile, quarterbacks in the bottom right quadrant will look to improve in 2020 as they had plenty of time to throw (relatively) but made poor choices. Teams in the left two quadrants will look to give their quarterbacks more time to throw in 2020. Intuitively, the more time they have to throw, the better their stat lines may become.
 
 ![XCOMPvsCOMP](/img/QBHelp/XCOMPvsCOMP.PNG "XCOMPvsCOMP")
 
