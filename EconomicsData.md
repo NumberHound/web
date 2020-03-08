@@ -49,11 +49,15 @@ A quick google search can be done to see if your municipality, state/province or
 
 [Kaggle](https://www.kaggle.com/datasets) -- Kaggle is a great resource for everything data science. You will just need to create a free account to download dataset.
 
+[NOAA](https://data.noaa.gov/dataset/) -- nearly 100,000 datasets mostly related to weather, climate and the environment.
+
 [ProPublica](https://www.propublica.org) -- ProPublica is a journalism website, but they also publish all their data on their [Data Store](https://www.propublica.org/datastore/).
 
 [Reddit](https://www.reddit.com/r/datasets/) -- Reddit has a sub reddit which is specifically for datasets.
 
 [Socrata](https://opendata.socrata.com) -- Socrata has an open data store which cover a wide range of topics.
+
+[Tableau Public Sample Data](https://public.tableau.com/en-us/s/resources) -- has some great sample data sets to work with, as well as Web data connectors. These web connectors allow you to do things like analyze your own social media data.
 
 ---
 
@@ -242,6 +246,8 @@ Biking Data (Biking is a growing area in environmental economics) is published i
 [International Energy Agency](https://www.oecd-ilibrary.org/statistics) -- International data on coal, electricity, natural gas, oil, renewables, emissions, energy prices and taxes, energy R&D, world energy statistics, and forecasts.
 
 [JODI oil](https://www.jodidata.org/oil/database/overview.aspx) -- Joint Organizations Data Initiative . International JODI database providing current data on oil produced in 30 countries.
+
+[NOAA](https://data.noaa.gov/dataset/) -- nearly 100,000 datasets mostly related to weather, climate and the environment.
 
 [Primary, Final and Useful Energy Database](https://www.iiasa.ac.at/web/home/research/researchPrograms/TransitionstoNewTechnologies/PFUDB.en.html) -- Historical database of energy use by country or region, energy level, sector, energy carrier, and end-use type for 20 countries, for the 20th century.
 

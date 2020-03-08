@@ -38,10 +38,15 @@ Regardless of what you choose... I would recommend getting a [Github](https://gi
 
 * Google Drive -- Best for free storage and simplicity.
 * R or Python? Comes down to personal taste, sometimes depends on if you are doing something highly specialized.
-* Best for Visualization? Tableau.
-* Best for Cleaning Data and Data Integration if I don't want to code? Excel and Excel Power Query .
+* Best for Visualization? Tableau if you don't want to code, Python if you want to code.
+* Best for Cleaning Data and Data Integration if I don't want to code? Excel and Excel Power Query.
 * Best for Econometrics? STATA.
 
+I need some inspiration/help with data visualization, where can I get it?
+
+[from Data to Viz](https://www.data-to-viz.com/) -- provides a complete breakdown of what visualizations are right for your data as well as information such as how to read those visualizations, common mistakes of those visualizations, and what packages you can use in R and Python to make those visualizations.
+
+[The Data Viz Project](https://datavizproject.com/) -- unique visualizations created by data scientists. 
 
 What is most used in the real world? Python, by far, and it is still growing. Followed by Excel, Tableau, and Power BI. See:
 
