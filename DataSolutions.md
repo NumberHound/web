@@ -42,12 +42,6 @@ Regardless of what you choose... I would recommend getting a [Github](https://gi
 * Best for Cleaning Data and Data Integration if I don't want to code? Excel and Excel Power Query.
 * Best for Econometrics? STATA.
 
-I need some inspiration/help with data visualization, where can I get it?
-
-[from Data to Viz](https://www.data-to-viz.com/) -- provides a complete breakdown of what visualizations are right for your data as well as information such as how to read those visualizations, common mistakes of those visualizations, and what packages you can use in R and Python to make those visualizations.
-
-[The Data Viz Project](https://datavizproject.com/) -- unique visualizations created by data scientists. 
-
 What is most used in the real world? Python, by far, and it is still growing. Followed by Excel, Tableau, and Power BI. See:
 
 [KDnuggets](https://www.kdnuggets.com/2019/05/poll-top-data-science-machine-learning-platforms.html)
@@ -57,6 +51,17 @@ What is most used in the real world? Python, by far, and it is still growing. Fo
 What is most popular on the job market?
 
 [Most In Demand Tech Skills for Data Scientists](https://towardsdatascience.com/the-most-in-demand-tech-skills-for-data-scientists-d716d10c191d)
+
+---
+## Data Visualization Help
+
+I need some inspiration/help with data visualization, where can I get it?
+
+[from Data to Viz](https://www.data-to-viz.com/) -- provides a complete breakdown of what visualizations are right for your data as well as information such as how to read those visualizations, common mistakes of those visualizations, and what packages you can use in R and Python to make those visualizations.
+
+[The Data Viz Project](https://datavizproject.com/) -- unique visualizations created by data scientists.
+
+[Data Looks Better Naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked) -- a helpful blog post on what to do for a more impactful visualization.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interesting Items
+title: Miscellaneous Resources
 ---
 
 ## Contents
@@ -40,6 +40,8 @@ title: Interesting Items
 
 [Designing Data For Maximum Impact](https://www.youtube.com/watch?v=b5C5dV9XVKo)
 
+[Data Is Beautiful](https://www.youtube.com/channel/UCkWbqlDAyJh2n8DN5X6NZyg)
+
 ---
 
 ## Websites and Blogs
@@ -49,6 +51,10 @@ title: Interesting Items
 [Variance Explained](http://varianceexplained.org)
 
 [Gapminder](https://www.gapminder.org/)
+
+[Information is Beautiful](https://informationisbeautiful.net/)
+
+[Darkhorse Analytics Blog](https://www.darkhorseanalytics.com/blog)
 
 ---
 
