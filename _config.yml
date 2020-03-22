@@ -3,7 +3,7 @@ title: NumberHound
 description: "A blog about sports and data storytelling, amongst other things."
 url: "https://numberhound.com"
 author:
-  name: "Chris Smitten"
+  name:
   email: "woof@numberhound.com"
   url: "https://numberhound.com/"
 

@@ -30,7 +30,11 @@ Here are some great data sites which cover many topics. You never know what you 
 
 [Github](https://github.com/collections/open-data) -- Github is a software building community which also has some data sets shared by users.
 
-Governments
+[Google Dataset Search](https://datasetsearch.research.google.com) -- If you know what you want, and have some key words for your search, I would suggest using this tool provided by google to find your data.
+
+[Google Trends](https://trends.google.com/trends/) -- When something is hard to measure, like popularity of something, a potential alternative to measuring popularity is using Google Trends. The problem with this is instead of giving you raw statistics, it gives you an index of everything.
+
+**Governments:**
 
 * Many cities make all their data public, here are some examples below
   * [Los Angeles](https://data.lacity.org)
@@ -59,11 +63,7 @@ A quick google search can be done to see if your municipality, state/province or
 
 [Tableau Public Sample Data](https://public.tableau.com/en-us/s/resources) -- has some great sample data sets to work with, as well as Web data connectors. These web connectors allow you to do things like analyze your own social media data.
 
----
 
-## I Know What I Want, But Can't Find It
-
-If you know what you want, and have some key words for your search, I would suggest [Google Dataset Search](https://datasetsearch.research.google.com)
 
 When something is hard to measure, like popularity of something, a potential alternative to measuring popularity is using [Google Trends](https://trends.google.com/trends/). The problem with this is instead of giving you raw statistics, it gives you an index of everything.
 

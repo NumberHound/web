@@ -15,6 +15,18 @@ If you are looking for data, or help with data, use our resources in the menu ta
 
 Updates to the data resources pages are continually made as new, quality datasets are found. Please report any broken links to datasets.
 
+Currently, NumberHound has the following resources:
+
+Data Solutions -- a page with resources and guidance to help you store, clean, analyze, and visualize your data.
+
+Economics Data -- a page with lists of where to get data for all you empirical projects. The list is broken down by subject area.
+
+Sports Data -- a page with lists of where to get data for all sports related projects. The list is broken down by sport.
+
+The Paper Companion -- A page with high-level tips on writing an empirical economics paper. A lot of these tips can be generalized to any write up associated with a data science project.
+
+Miscellaneous Resources -- A page with assorted papers, books, blogs, websites, videos, podcasts, and social media sites which are meant to educate on data science, statistics, and economics. 
+
 ## NumberHound Data
 
 Data for all posts on NumberHound can be found in the [NumberHound Data Repository](https://github.com/NumberHound/Data) in the posts folder. Data on other topics can also be found in this repository.
