@@ -63,10 +63,6 @@ A quick google search can be done to see if your municipality, state/province or
 
 [Tableau Public Sample Data](https://public.tableau.com/en-us/s/resources) -- has some great sample data sets to work with, as well as Web data connectors. These web connectors allow you to do things like analyze your own social media data.
 
-
-
-When something is hard to measure, like popularity of something, a potential alternative to measuring popularity is using [Google Trends](https://trends.google.com/trends/). The problem with this is instead of giving you raw statistics, it gives you an index of everything.
-
 ---
 
 ## Agricultural Economics
