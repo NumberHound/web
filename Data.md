@@ -3,7 +3,7 @@ layout: page
 title: Data
 ---
 
-Welcome to the data page, please use the table of contents to navigate. The data here is for Not all resources on this page are free, especially in the Finance section. If you are a student, check with your universities library, as you may already have access to some paid data resources. All listings are in alphabetical order. 
+Welcome to the data page, please use the table of contents to navigate. The data here is for Not all resources on this page are free, especially in the Finance section. If you are a student, check with your universities library, as you may already have access to some paid data resources. All listings are in alphabetical order.
 
 ---
 
@@ -60,6 +60,8 @@ A quick google search can be done to see if your municipality, state/province or
 [Reddit](https://www.reddit.com/r/datasets/) -- Reddit has a sub reddit which is specifically for datasets.
 
 [Socrata](https://opendata.socrata.com) -- Socrata has an open data store which cover a wide range of topics.
+
+[SportsData](https://sportsdata.io) -- Real time and historical sports data. To see what is available use the [Data Dictionary](https://sportsdata.io/developers/data-dictionary/nfl)
 
 [Tableau Public Sample Data](https://public.tableau.com/en-us/s/resources) -- has some great sample data sets to work with, as well as Web data connectors. These web connectors allow you to do things like analyze your own social media data.
 
@@ -468,9 +470,11 @@ For a more extensive list of other resources for baseball, use [Baseball Guru](h
 
 ## Basketball
 
+[Basketball Reference](https://www.basketball-reference.com) -- Basketball Stats and Histories. The complete source for current and historical NBA/ABA players, teams, scores and leaders. Data can also by copied into excel files. There is also a college basketball database [here](https://www.sports-reference.com/cbb/). For information on any stats on the site, use the [glossary](https://www.basketball-reference.com/about/glossary.html).
+
 [NBA](https://ca.nba.com/?gr=www) -- Official site of the NBA. Full of all recent stats.
 
-[Basketball Reference](https://www.basketball-reference.com) -- Basketball Stats and Histories. The complete source for current and historical NBA/ABA players, teams, scores and leaders. Data can also by copied into excel files. There is also a college basketball database [here](https://www.sports-reference.com/cbb/). For information on any stats on the site, use the [glossary](https://www.basketball-reference.com/about/glossary.html).
+[NBAstuffer](https://www.nbastuffer.com) -- Lots of basketball analytics data and referee data. 
 
 ---
 

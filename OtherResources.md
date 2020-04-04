@@ -56,6 +56,10 @@ title: Other Resources
 
 [Darkhorse Analytics Blog](https://www.darkhorseanalytics.com/blog)
 
+[Squared2020](https://squared2020.com)
+
+[MIT Sports Analytics Conference](http://www.sloansportsconference.com)
+
 ---
 
 ## Podcasts
