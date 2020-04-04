@@ -23,9 +23,7 @@ Economics Data -- a page with lists of where to get data for all you empirical p
 
 Sports Data -- a page with lists of where to get data for all sports related projects. The list is broken down by sport.
 
-The Paper Companion -- A page with high-level tips on writing an empirical economics paper. A lot of these tips can be generalized to any write up associated with a data science project.
-
-Miscellaneous Resources -- A page with assorted papers, books, blogs, websites, videos, podcasts, and social media sites which are meant to educate on data science, statistics, and economics. 
+Miscellaneous Resources -- A page with assorted papers, books, blogs, websites, videos, podcasts, and social media sites which are meant to educate on data science, statistics, and economics.
 
 ## NumberHound Data
 
