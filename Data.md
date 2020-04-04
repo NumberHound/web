@@ -3,7 +3,7 @@ layout: page
 title: Data
 ---
 
-Welcome to the data page, please use the table of contents to navigate. The data here is for Not all resources on this page are free, especially in the Finance section. If you are a student, check with your universities library, as you may already have access to some paid data resources. 
+Welcome to the data page, please use the table of contents to navigate. The data here is for Not all resources on this page are free, especially in the Finance section. If you are a student, check with your universities library, as you may already have access to some paid data resources. All listings are in alphabetical order. 
 
 ---
 
@@ -430,37 +430,37 @@ US elections
 
 ## North American Football
 
+[CFL Database](https://cfldb.ca/) -- Complete CFL database on the Canadian football league going back to its conception. This includes franchise, financial, stadium, player, league, and game information.
+
 [Football Outsiders](https://www.footballoutsiders.com) -- Football analytics and other advanced stats at both the player and team level. The stats go back to 1986. For definitions of what each stat is, use the [glossary](https://www.footballoutsiders.com/info/glossary).
-
-[NextGenStats](https://nextgenstats.nfl.com) -- Another football analytics website with data back to the 2016. For explanations on the stats posted, use the [glossary](https://nextgenstats.nfl.com/glossary). The site also has visualization tools.
-
-[Pro Football Reference](https://www.pro-football-reference.com) -- Football Stats and Histories. The complete source for current and historical NFL/AFL players, teams, scores and leaders. Data can also by copied into excel files. There is also a college football database [here](https://www.sports-reference.com/cfb/). For explanations on the stats posted and terms used, see the [glossary](https://www.pro-football-reference.com/about/glossary.htm).
-
-[NFL Savant](http://nflsavant.com/index.php) -- NFLsavant.com is a web site dedicated to providing advanced NFL statistics in a simple to use interface. Also has excellent, downloadable play by play data.
-
-[The NFL Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2020/overview) -- Data on Kaggle from the NFL Big Data Bowl.
-
-[NFL Website](https://www.nfl.com) -- Full of information and stats for both past and present.
 
 [The Football Database](https://www.footballdb.com/cfl/index.html) -- Database on football. Complete history of the NFL, AAF, and CFL.
 
-[CFL Database](https://cfldb.ca/) -- Complete CFL database on the Canadian football league going back to its conception. This includes franchise, financial, stadium, player, league, and game information.
+[NextGenStats](https://nextgenstats.nfl.com) -- Another football analytics website with data back to the 2016. For explanations on the stats posted, use the [glossary](https://nextgenstats.nfl.com/glossary). The site also has visualization tools.
+
+[The NFL Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2020/overview) -- Data on Kaggle from the NFL Big Data Bowl.
+
+[NFL Savant](http://nflsavant.com/index.php) -- NFLsavant.com is a web site dedicated to providing advanced NFL statistics in a simple to use interface. Also has excellent, downloadable play by play data.
+
+[NFL Website](https://www.nfl.com) -- Full of information and stats for both past and present.
+
+[Pro Football Reference](https://www.pro-football-reference.com) -- Football Stats and Histories. The complete source for current and historical NFL/AFL players, teams, scores and leaders. Data can also by copied into excel files. There is also a college football database [here](https://www.sports-reference.com/cfb/). For explanations on the stats posted and terms used, see the [glossary](https://www.pro-football-reference.com/about/glossary.htm).
 
 ---
 
 ## Baseball
 
+[Baseball Prospectus](https://www.baseballprospectus.com) -- Site has Interesting statistical analysis, articles, projections, and fantasy information.
+
 [Baseball Reference](https://www.baseball-reference.com) -- Devoted to tracking statistics for baseball teams and players from around the world. Data can also by copied into excel files. For explanations on the stats used, see their [glossary](https://www.baseball-reference.com/about/).
-
-[Fan Graphs](https://www.fangraphs.com) -- Both a blog and baseball database. Good scouting information about players and teams is on the site. There are also great player profiles and tools. For explanations on the stats used, see their [glossary](https://blogs.fangraphs.com/glossary/).
-
-[Retrosheet](https://www.retrosheet.org) -- Retrosheet is a very rich baseball database that has free data downloads.
 
 [Chadwick Baseball Bureau](https://github.com/chadwickbureau) -- Great source of free baseball data.
 
+[Fan Graphs](https://www.fangraphs.com) -- Both a blog and baseball database. Good scouting information about players and teams is on the site. There are also great player profiles and tools. For explanations on the stats used, see their [glossary](https://blogs.fangraphs.com/glossary/).
+
 [MLB Trade Rumours](https://www.mlbtraderumors.com) -- A database which tracks the transaction side of the MLB, mainly trades, signings and roster moves.
 
-[Baseball Prospectus](https://www.baseballprospectus.com) -- Site has Interesting statistical analysis, articles, projections, and fantasy information.
+[Retrosheet](https://www.retrosheet.org) -- Retrosheet is a very rich baseball database that has free data downloads.
 
 For a more extensive list of other resources for baseball, use [Baseball Guru](http://baseballguru.com).
 
@@ -484,7 +484,7 @@ For a more extensive list of other resources for baseball, use [Baseball Guru](h
 
 [Data Hub Resources](https://datahub.io/collections/football#football-datasets) -- If you are looking for free football data, this resource page is a great place to start.
 
-[Who Scored](https://www.whoscored.com) -- Great stats and insights as well as live scores.
+[Football Manager](https://www.footballmanager.com). Football manager is an excellent football simulation game. In order to make this game, vast amounts of data are required on players, clubs and leagues. You can download a free demo of the game and explore history on clubs and players.
 
 [Football Reference](https://fbref.com/en/) -- Football Stats and Histories. The complete source for current and historical players, teams, scores and leaders in all major soccer leagues. Data can also by copied into excel files.
 
@@ -492,9 +492,9 @@ For a more extensive list of other resources for baseball, use [Baseball Guru](h
 
 [Transfer Markt](https://www.transfermarkt.us) -- This site has excellent information on transfers in world football. Along with transfers, it also has a database on current player market values. The site has player, coach, and club level statistics as well.
 
-[Football Manager](https://www.footballmanager.com). Football manager is an excellent football simulation game. In order to make this game, vast amounts of data are required on players, clubs and leagues. You can download a free demo of the game and explore history on clubs and players.
-
 [Sofifa](https://sofifa.com) -- A FIFA (The video game) player database which allows you to search players based on their attributes and ratings.
+
+[Who Scored](https://www.whoscored.com) -- Great stats and insights as well as live scores.\
 
 ---
 
@@ -508,39 +508,39 @@ For a more extensive list of other resources for baseball, use [Baseball Guru](h
 
 ## Hockey
 
-[MoneyPuck](http://moneypuck.com) -- Site full of hockey analytics, predictions and visualization tools. The site also posts all of its analytics data -- free to download. For a deeper explanation about how the stats and game model work, see the [about page](http://moneypuck.com/about.htm).  
-
-[hockeydb](http://www.hockeydb.com) -- Site is full of player statistics and histories of leagues.
-
-[Hockey Reference](https://www.hockey-reference.com) -- NHL Stats and History. The complete source for current and historical NHL players, teams, scores and leaders. Data can also by copied into excel files. For explanations on the stats on the site, use the [glossary](https://www.hockey-reference.com/about/glossary.html).
-
 [CapFriendly](https://www.capfriendly.com) -- CapFriendly is an independent compiler of contract information for the National Hockey League. Any information on the business side of the NHL can be found here.
 
 [Corsica Hockey](https://www.corsicahockey.com) -- Provider of statistics, advanced stats, predictions and betting resources.
 
-[Puckpedia](https://puckpedia.com) -- Similar to CapFriendly, this is another site focused on the business side of hockey -- finances and transactions.
-
-[Hockey Abstract](http://www.hockeyabstract.com) -- Full of analytics information and very rich datasets, available for download [here](http://www.hockeyabstract.com/testimonials)
-
-[NHL Trade Tracker](http://www.nhltradetracker.com) -- Every trade that has ever happened in the NHL. Trying to figure out who went where, and when? This is the place to go.
-
-[NHL](https://www.nhl.com) -- The official site of the National Hockey League.
-
-[Natural Stat Trick](http://naturalstattrick.com/teamtable.php) -- Good place for hockey analytics. Also a good place to download analytics csv files for recent seasons.
-
-[The Unofficial Uniform Database](http://www.nhluniforms.com) -- Curious what a teams uniform looked like in a given season? This is the place to go.
+[Elite Prospects](https://www.eliteprospects.com) -- Focused on Hockey prospects from around the world.
 
 [Evolving Hockey](https://evolving-hockey.com) Contains some of the most advanced stats you can find, including "above replacement" stats. There are also visualization tools and by becoming a patron you can download their data.
 
-[Elite Prospects](https://www.eliteprospects.com) -- Focused on Hockey prospects from around the world.
+[hockeydb](http://www.hockeydb.com) -- Site is full of player statistics and histories of leagues.
+
+[Hockey Abstract](http://www.hockeyabstract.com) -- Full of analytics information and very rich datasets, available for download [here](http://www.hockeyabstract.com/testimonials)
+
+[Hockey Reference](https://www.hockey-reference.com) -- NHL Stats and History. The complete source for current and historical NHL players, teams, scores and leaders. Data can also by copied into excel files. For explanations on the stats on the site, use the [glossary](https://www.hockey-reference.com/about/glossary.html).
+
+[MoneyPuck](http://moneypuck.com) -- Site full of hockey analytics, predictions and visualization tools. The site also posts all of its analytics data -- free to download. For a deeper explanation about how the stats and game model work, see the [about page](http://moneypuck.com/about.htm).  
+
+[Natural Stat Trick](http://naturalstattrick.com/teamtable.php) -- Good place for hockey analytics. Also a good place to download analytics csv files for recent seasons.
+
+[NHL](https://www.nhl.com) -- The official site of the National Hockey League.
+
+[NHL Trade Tracker](http://www.nhltradetracker.com) -- Every trade that has ever happened in the NHL. Trying to figure out who went where, and when? This is the place to go.
+
+[Puckpedia](https://puckpedia.com) -- Similar to CapFriendly, this is another site focused on the business side of hockey -- finances and transactions.
+
+[The Unofficial Uniform Database](http://www.nhluniforms.com) -- Curious what a teams uniform looked like in a given season? This is the place to go.
 
 ---
 
 ## Tennis
 
-[Tennis Data UK](http://www.tennis-data.co.uk) -- If you are looking for tennis results data, this is a great place to go. The site has data easy to download in excel files, Under the odds and results tab on the right just select a tournament.
-
 [Tennis Abstract](http://www.tennisabstract.com) -- The Tennis abstract is a great database if you are looking for specific tennis facts. Forecasts are also available for tournaments.
+
+[Tennis Data UK](http://www.tennis-data.co.uk) -- If you are looking for tennis results data, this is a great place to go. The site has data easy to download in excel files, Under the odds and results tab on the right just select a tournament.
 
 ---
 
