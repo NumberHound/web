@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous Resources
+title: Other Resources
 ---
 
 ## Contents
