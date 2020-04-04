@@ -34,9 +34,9 @@ title: Other Resources
 
 [Luck Versus Skill](https://www.youtube.com/watch?v=HNlgISa9Giw)
 
-[How Blockchain is Changing Money and Business](https://www.youtube.com/watch?v=Pl8OlkkwRpc)\
+[How Blockchain is Changing Money and Business](https://www.youtube.com/watch?v=Pl8OlkkwRpc)
 
-[Three Ways to Spot a Bad Statistic](https://www.youtube.com/watch?v=Zwwanld4T1w&t=446s)
+[Three Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
 
 [Designing Data For Maximum Impact](https://www.youtube.com/watch?v=b5C5dV9XVKo)
 
