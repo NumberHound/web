@@ -2,8 +2,9 @@
 layout: page
 title: Data
 ---
+## Introduction
 
-Welcome to the data page, please use the table of contents to navigate. The data here is for Not all resources on this page are free, especially in the Finance section. If you are a student, check with your universities library, as you may already have access to some paid data resources. All listings are in alphabetical order.
+Welcome to the data page, please use the table of contents to navigate. If you are looking for data, whether you know what you want or not, this directory is a good place to start. The data here is for Not all resources on this page are free, especially in the Finance section. If you are a student, check with your universities library, as you may already have access to some paid data resources. All listings are in alphabetical order. Titles (in blue) of each item in this directory are hyperlinked to their sources, simply clink on one to be redirected to that site. 
 
 ---
 
@@ -474,7 +475,7 @@ For a more extensive list of other resources for baseball, use [Baseball Guru](h
 
 [NBA](https://ca.nba.com/?gr=www) -- Official site of the NBA. Full of all recent stats.
 
-[NBAstuffer](https://www.nbastuffer.com) -- Lots of basketball analytics data and referee data. 
+[NBAstuffer](https://www.nbastuffer.com) -- Lots of basketball analytics data and referee data.
 
 ---
 
