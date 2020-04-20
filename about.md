@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-#### NumberHound's Mission: To help people undertaking empirical projects.
-
 ## About
+
+NumberHound's Mission - To help people undertaking empirical projects.
 
 NumberHound's logo was created by [Kyrsten Lofts](https://kyrstenlofts.com/). Anyone is allowed to post on NumberHound, if you wish to submit work for posting, please email woof@numberhound.com. Anyone is also welcome to make a contribution to our resource pages please email woof@numberhound.com with your suggestions.
 
