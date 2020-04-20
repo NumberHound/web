@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-####NumberHound's Mission: To help people undertaking empirical projects.
+#### NumberHound's Mission: To help people undertaking empirical projects.
 
 ## About
 
