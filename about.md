@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-NumberHound's Mission: To help people undertaking empirical projects.
+####NumberHound's Mission: To help people undertaking empirical projects.
 
 ## About
 
@@ -18,21 +18,3 @@ Currently, NumberHound has the following pages:
 [Data](https://numberhound.com/Data) -- a directory for datasets relating to both sports and economics, as well as general topics.
 
 [Resources](https://numberhound.com/OtherResources) -- A page with assorted papers, books, blogs, websites, videos, podcasts, and social media sites which are meant to educate on data science, sports, statistics, and economics. The page also has help on data storage, cleaning, analysis, and visualization.
-
-## NumberHound Data
-
-Data for all posts on NumberHound can be found in the [NumberHound Data Repository](https://github.com/NumberHound/Data) in the posts folder. Data on other topics can also be found in this repository.
-
-NumberHound also has more extensive collections of data on sports, including American Football, Hockey, and Soccer (Coming Soon). These collections include the following:
-
-* Team Level data
-* Individual Level data
-* Analytics and Advanced metrics for players and teams
-* Venue and attendance information
-* Season Histories
-* Awards and awards voting results
-* Salary and contract information as well as team payrolls
-* Team transactions such as trades and signings
-* Entry draft histories
-
-NumberHound data will soon be available on Kaggle. This includes the Hockey data and the American Football Data. All NumberHound data is made available for educational purposes and should be used for projects.

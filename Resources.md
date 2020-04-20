@@ -3,9 +3,9 @@ layout: page
 title: Resources
 ---
 
-## Introduction
+## Resources
 
-Welcome to the resources page, please use the table of contents to navigate. This page has links to helpful resources for data science, economics, statistics, and sports. Titles (in blue) of each item in this directory are hyperlinked to their sources, simply clink on one to be redirected to that site. 
+Welcome to the resources page, please use the table of contents to navigate. This page has links to helpful resources for data science, economics, statistics, and sports. Titles (in blue) of each item in this directory are hyperlinked to their sources, simply clink on one to be redirected to that site.
 
 ---
 

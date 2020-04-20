@@ -2,9 +2,9 @@
 layout: page
 title: Data
 ---
-## Introduction
+## Data
 
-Welcome to the data page, please use the table of contents to navigate. If you are looking for data, whether you know what you want or not, this directory is a good place to start. The data here is for Not all resources on this page are free, especially in the Finance section. If you are a student, check with your universities library, as you may already have access to some paid data resources. All listings are in alphabetical order. Titles (in blue) of each item in this directory are hyperlinked to their sources, simply clink on one to be redirected to that site. 
+Welcome to the data page, please use the table of contents to navigate. If you are looking for data, whether you know what you want or not, this directory is a good place to start. The data here is for Not all resources on this page are free, especially in the Finance section. If you are a student, check with your universities library, as you may already have access to some paid data resources. All listings are in alphabetical order. Titles (in blue) of each item in this directory are hyperlinked to their sources, simply clink on one to be redirected to that site.
 
 ---
 
