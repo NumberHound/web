@@ -27,7 +27,7 @@ Here are some great data sites which cover many topics. You never know what you 
 
 [Data World Open Data](https://data.world/datasets/open-data) -- Data world also has a large collection of data which cover topics from economics to censuses to environment to energy. The main website is [here](https://www.data-planet.com/).
 
-[FiveThirtyEight](https://fivethirtyeight.com) -- FiveThirtyEight is a website which writes pieces on politics, sports, economics, culture, and health/science. Along with the site does political and sports forecasts. A nice feature of the site is they post all their data and forecast data. The data is both [here](https://data.fivethirtyeight.com) and on [Github](https://github.com/fivethirtyeight) in the data [repository](https://github.com/fivethirtyeight/data).
+[FiveThirtyEight](https://fivethirtyeight.com) -- FiveThirtyEight is a website which writes pieces on politics, sports, economics, culture, and health/science. Along with the site does political and sports forecasts. A nice feature of the site is they post all their data and forecast data. The data is both [here](https://data.fivethirtyeight.com) and on [Github](https://github.com/fivethirtyeight) in the data [repository](https://github.com/fivethirtyeight/data). Also, [ESPN](https://www.espn.com) (FIveThirtyEight's owner) produces a wide range of stats available.
 
 [Github](https://github.com/collections/open-data) -- Github is a software building community which also has some data sets shared by users.
 
@@ -63,6 +63,8 @@ A quick google search can be done to see if your municipality, state/province or
 [Socrata](https://opendata.socrata.com) -- Socrata has an open data store which cover a wide range of topics.
 
 [SportsData](https://sportsdata.io) -- Real time and historical sports data. To see what is available use the [Data Dictionary](https://sportsdata.io/developers/data-dictionary/nfl)
+
+[statmuse](https://www.statmuse.com) -- StatMuse, an artificial intelligence company, is the leader in search for sports information, stories and trivia. Coverage includes stats, scores, schedules, standings, fantasy, bios, recaps and more — from live games all the way back to the inaugural seasons — for the NBA, NFL, MLB and NHL.
 
 [Tableau Public Sample Data](https://public.tableau.com/en-us/s/resources) -- has some great sample data sets to work with, as well as Web data connectors. These web connectors allow you to do things like analyze your own social media data.
 
@@ -473,9 +475,13 @@ For a more extensive list of other resources for baseball, use [Baseball Guru](h
 
 [Basketball Reference](https://www.basketball-reference.com) -- Basketball Stats and Histories. The complete source for current and historical NBA/ABA players, teams, scores and leaders. Data can also by copied into excel files. There is also a college basketball database [here](https://www.sports-reference.com/cbb/). For information on any stats on the site, use the [glossary](https://www.basketball-reference.com/about/glossary.html).
 
+[Cleaning The Glass](https://cleaningtheglass.com) -- The stats site aims to provide advanced statistics and tools that are more accurate, easier to use, and hard to find elsewhere to help you do your own analysis.
+
 [NBA](https://ca.nba.com/?gr=www) -- Official site of the NBA. Full of all recent stats.
 
 [NBAstuffer](https://www.nbastuffer.com) -- Lots of basketball analytics data and referee data.
+
+[82games](http://www.82games.com/index.htm) -- has in-depth stats for NBA teams and players, designed to accurately highlight true performance levels. The site also posts its data.
 
 ---
 
@@ -534,6 +540,8 @@ For a more extensive list of other resources for baseball, use [Baseball Guru](h
 [NHL](https://www.nhl.com) -- The official site of the National Hockey League.
 
 [NHL Trade Tracker](http://www.nhltradetracker.com) -- Every trade that has ever happened in the NHL. Trying to figure out who went where, and when? This is the place to go.
+
+[PuckIQ](http://www.puckiq.com) -- uses analytics to rank NHL players and shares their analytics data.
 
 [Puckpedia](https://puckpedia.com) -- Similar to CapFriendly, this is another site focused on the business side of hockey -- finances and transactions.
 
