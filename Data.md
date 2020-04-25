@@ -68,6 +68,8 @@ A quick google search can be done to see if your municipality, state/province or
 
 [Tableau Public Sample Data](https://public.tableau.com/en-us/s/resources) -- has some great sample data sets to work with, as well as Web data connectors. These web connectors allow you to do things like analyze your own social media data.
 
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) -- maintains 497 data sets as a service to the machine learning community.
+
 ---
 
 ## Agricultural Economics
