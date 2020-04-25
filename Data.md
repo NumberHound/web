@@ -495,11 +495,13 @@ For a more extensive list of other resources for baseball, use [Baseball Guru](h
 
 [Data Hub Resources](https://datahub.io/collections/football#football-datasets) -- If you are looking for free football data, this resource page is a great place to start.
 
-[Football Manager](https://www.footballmanager.com). Football manager is an excellent football simulation game. In order to make this game, vast amounts of data are required on players, clubs and leagues. You can download a free demo of the game and explore history on clubs and players.
+[Football Manager](https://www.footballmanager.com). Football manager is an excellent football simulation game. In order to make this game, vast amounts of data are required on players, clubs and leagues. You can download a free demo of the game and explore history on clubs and players.The game also has a separate [app](https://fmdb.online) for their database as well. Finally, there are other sites which post football manager data like [SortItOutSI](https://sortitoutsi.net/search/database), [Fmdataba](https://fmdataba.com), and [Fmscout](https://www.fmscout.com/c-fm20-editor-data.html).
 
 [Football Reference](https://fbref.com/en/) -- Football Stats and Histories. The complete source for current and historical players, teams, scores and leaders in all major soccer leagues. Data can also by copied into excel files.
 
 [Football Data UK](http://www.football-data.co.uk/data.php) -- Great place to download rich match level data for all major soccer leagues. Just click on your league of interest to be redirected to data files for that league, organized by season.
+
+[Footystat](https://footystats.org) -- FootyStats is the premier football stats and analysis site, with data coverage in 500+ football leagues worldwide including UK, Europe, and South America. Team stats, League stats, and Player stats are covered with details on form, goals scored, conceded, shots, xG, corner stats, and more. You can also download the data using our CSV or API service.
 
 [Transfer Markt](https://www.transfermarkt.us) -- This site has excellent information on transfers in world football. Along with transfers, it also has a database on current player market values. The site has player, coach, and club level statistics as well.
 
