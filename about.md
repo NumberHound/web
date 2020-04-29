@@ -17,4 +17,4 @@ Currently, NumberHound has the following pages:
 
 [Data](https://numberhound.com/Data) -- a directory for datasets relating to both sports and economics, as well as general topics.
 
-[Resources](https://numberhound.com/OtherResources) -- A page with assorted papers, books, blogs, websites, videos, podcasts, and social media sites which are meant to educate on data science, sports, statistics, and economics. The page also has help on data storage, cleaning, analysis, and visualization.
+[Resources](https://numberhound.com/OtherResources) -- A page with assorted papers, books, blogs, websites, videos, podcasts, and social media sites which are meant to educate on data science, sports, statistics, and economics.
