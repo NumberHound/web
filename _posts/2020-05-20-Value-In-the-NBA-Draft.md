@@ -29,5 +29,3 @@ Which teams have been the best/worst at drafting over the last 30 years?
 ![30 Years](/img/NBADraft/30years.png "Teams")
 
 _Data for this post came from [Basketball Reference](https://www.basketball-reference.com/). It can be found on Github [here](https://github.com/NumberHound/Data/tree/master/Posts/NBA%20Drafts)_
-
-![By Team](/img/NBADraft/By Team.png "By Team")
