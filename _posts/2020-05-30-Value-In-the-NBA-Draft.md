@@ -1,5 +1,5 @@
 ---
-title: "Value" in the NBA Draft
+title: Value in the NBA Draft
 ---
 
 A draft in any sport is a night full of optimism for teams, prospects and fans. No matter what position a team is drafting from, they will be looking for someone who will contribute meaningfully for years to come. The franchises who assemble a roster that consistently wins year after year is usually not the same franchise that spends big in free agency, it is typically the franchise that drafts and develops well. What does it mean to draft well? To me, it means a team identifies players who fit their system and culture, but most importantly, they provide value above what one would expect based on where they were selected.
