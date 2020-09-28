@@ -5,7 +5,7 @@ title: Resources
 
 ## Resources
 
-Welcome to the resources page, please use the table of contents to navigate. This page has links to some helpful resources for data visualization and statistics. Titles (in blue) of each item in this directory are hyperlinked to their sources, simply clink on one to be redirected to that site.
+Welcome to the resources page, please use the table of contents to navigate. This page has links to some helpful resources for data visualization and statistics. Titles (in blue) of each item in this directory are hyperlinked to their sources, simply click on one to be redirected to that site.
 
 ---
 
@@ -56,7 +56,7 @@ I need some inspiration/help with data visualization, where can I get it?
 
 [Three Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
 
-[SeeingTheory](https://seeing-theory.brown.edu) 
+[SeeingTheory](https://seeing-theory.brown.edu)
 
 ### Books
 
